@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "1.18.2"
-let checksum = "0cbfd0d333c6a20f91aa5c669df1a74d26595ae861a2f1125a8ce2df5a0bcb1a"
+let version = "1.18.3"
+let checksum = "ae429df62220e2f59d05b60cc06f422a82071388073b75eea67ec7d2fb4831b7"
 
 let release = "https://raw.githubusercontent.com/idngo/releases/archive/mobilesdk-ios/\(version)"
 
